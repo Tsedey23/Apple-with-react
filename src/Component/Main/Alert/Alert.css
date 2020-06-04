@@ -1,0 +1,17 @@
+.alert-section {
+	text-align: center;
+	padding: 20px;
+}
+.alert-title {
+	font-weight: 600;
+	color: #1d1d1f;
+	padding: 10px;
+}
+.alert-text {
+	max-width: 90%;
+	margin: 0 auto;
+}
+.alert-text {
+    max-width: 85%;
+    margin: 0 auto;
+}	
